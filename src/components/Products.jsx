@@ -4,7 +4,7 @@ import SmartLock from "../assets/images/smartLock.jpg";
 import MotionDetector from "../assets/images/motionDetector.jpg";
 import Alarm from "../assets/images/alarm.jpeg";
 import Biometric from "../assets/images/biometric.jpg";
-import SecurityLight from "../assets/images/SecurityLight.jpg";
+import SecurityLight from "../assets/images/securityLight.jpg";
 
 const products = [
   { name: "HD Security Cameras", image: SecurityCamera },
